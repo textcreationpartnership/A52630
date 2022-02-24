@@ -1,0 +1,464 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Narrative of the demon of Spraiton in a letter from a person of quality in the county of Devon to a gentleman in London : with a relation of an apparition or spectrum of an ancient gentleman of Devon, who often appeared to his sons servant, with the strange actions and discourses happening between them at divers times : as likewise the dæmon of an ancient woman, wife of the gentleman aforesaid, with unparalell'd varieties of strange exploits performed by her : attested under the hands of the said person of quality, and likewise a reverend divine of the said county : with reflections on drollery and atheism, and a word those who deny the existence of spirits.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52630</idno>
+            <idno type="STC">Wing N180</idno>
+            <idno type="STC">ESTC R32147</idno>
+            <idno type="EEBO-CITATION">12334796</idno>
+            <idno type="OCLC">ocm 12334796</idno>
+            <idno type="VID">59752</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52630)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59752)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1019:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Narrative of the demon of Spraiton in a letter from a person of quality in the county of Devon to a gentleman in London : with a relation of an apparition or spectrum of an ancient gentleman of Devon, who often appeared to his sons servant, with the strange actions and discourses happening between them at divers times : as likewise the dæmon of an ancient woman, wife of the gentleman aforesaid, with unparalell'd varieties of strange exploits performed by her : attested under the hands of the said person of quality, and likewise a reverend divine of the said county : with reflections on drollery and atheism, and a word those who deny the existence of spirits.</title>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Daniel Brown ... and Thomas Malthus ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages torn and cropped with some loss of print.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ghosts --  England --  Devon.</term>
+               <term>Apparitions --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59752:1"/>
+            <pb facs="tcp:59752:1" rendition="simple:additions"/>
+            <p>A NARRATIVE OF THE Demon of Spraiton. In a LETTER from a Perſon
+of <hi>Quality</hi> in the COUNTY of DEVON, To a Gentleman in LONDON, WITH A
+RELATION OF AN <hi rend="blackletterType">Apparition</hi> or <hi rend="blackletterType">Spectrum</hi> OF An ancient GENTLEMAN of <hi>Devon,</hi> who
+often Appeared to his Sons Servant. With the ſtrange Actions and
+Diſcourſes happening be<g ref="char:EOLhyphen"/>tween them at divers times.</p>
+            <p>AS LIKEWISE The DAEMON of an ancient WOMAN, Wife of the Gentleman
+aforeſaid. With Unparalell'd Varieties of ſtrange Exploits performed by
+her: Atteſted under the Hands of the ſaid Per<g ref="char:EOLhyphen"/>ſon of <hi>Quality,</hi>
+and likewiſe a Reverend Divine of the ſaid County.</p>
+            <p>With REFLECTIONS on <hi rend="blackletterType">Drollery</hi> and
+<hi rend="blackletterType">Atheiſm:</hi> And a Word to thoſe that Deny the
+Exiſtence of SPIRITS.</p>
+            <p>London, Printed for <hi>Daniel Brown,</hi> at the
+<hi>Black-Swan,</hi> without <hi>Temple-Bar,</hi> and <hi>Thomas Malthus,</hi>
+at the <hi>Sun</hi> in the <hi>Poultrey,</hi> 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:59752:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:59752:2"/>
+            <head>A NARRATIVE OF <hi rend="blackletterType">The Demon of
+Spraiton,</hi> In a LETTER from a Perſon of <hi>Quality</hi> in the County of
+Devon, To A Gentleman in LONDON. WITH A Relation of an APPARITION or SPECTRUM
+of an ancient Gentleman of <hi>Devon,</hi> &amp;c.</head>
+            <p>HEar ye Sons of the Atheiſtical <hi>Leviathan,</hi> and let the
+Impene<g ref="char:EOLhyphen"/>trable Off-ſpring of Chance and Atomes, give attention! How long
+ſhall your Impious Incredulity Brave the Power of the Almighty, and
+ſhamefully ſhut your Eyes againſt the evident demonſtrations of an
+Omnipotent Creator?</p>
+            <p>Where are your <hi>HOBBS</hi>'s, your <hi>SCOTS,</hi> your
+<hi>WEBSTERS,</hi> with their <hi>Blaſpemous</hi> denyals of the Exiſtence
+of <hi>Spirits,</hi> or an E<g ref="char:EOLhyphen"/>ternal <pb facs="tcp:59752:3"/>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ome? Or
+how can they that deny the Being <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> there is ſuch a thing in the World as a God?
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Ac<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ore of
+Matter of Fact, to thoſe which the Learned
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Moore,</hi> th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>genious Dr. <hi>Glanvill</hi>
+(with divers others, the Aſſertors of a Divine Providence, and an Eternal
+State) have Printed, in Confutation of your Brutiſh Stupidity; which one
+would think were enough for ever to Silence and Confound the Advocates of
+De<g ref="char:EOLhyphen"/>bauchery, and Sadduciſm, and reduce their Arguments into that Nul<g ref="char:EOLhyphen"/>lity,
+they ſo Contend for.</p>
+            <p>Notwithſtanding all which, ſome there are that will ſtill
+act the Brute, and would fain be of the opinion that Man dies like a Beaſt,
+that they might with more ſecurity Live ſo: Indulging themſelves in
+thoſe Beſtial Senſualities, that dare not admit the Conſideration of an
+after-reckoning, or the thoughts of a future Life.</p>
+            <p>The Founder of this Order of men (or rather Brutes amongſt us)
+is the DEVIL, the Father of Lyes, and Firſt Apoſtate from the E<g ref="char:EOLhyphen"/>ternal
+Glory; who (being ſenſible that the right Notion of a Deity, and the
+Immortality of the Soul, would be great Reſtraints to the Depravity and
+Licenciouſneſs of humane Race, and naturally excite in them ſuch thoughts
+as might have a tendency to make ſome pro<g ref="char:EOLhyphen"/>viſion againſt the great day of
+Account;) hath ever been ſolici<g ref="char:EOLhyphen"/>tous to caſt men into a ſtate of Security
+by a diſ-belief of any Life after this: That ſo they might with greater
+freedom, and uncon<g ref="char:EOLhyphen"/>cernedneſs, give themſelves over to a living in all
+manner of Li<g ref="char:EOLhyphen"/>cenciouſneſs, and drop into an irrevocable ſtate of
+Perdition, be<g ref="char:EOLhyphen"/>fore they have ever entertained one ſerious thought of Death or
+Judgment: For how ſhould they concern themſelves about a Futu<g ref="char:EOLhyphen"/>rity, who
+believe not a Reſurrection? The tendency of whoſe Philoſophy, and
+Carouſing Sonnets, is to baniſh all apprehenſions of a Second life: Who
+lull themſelves into a Lethargick Stupidity with their 
+<q>Ede, Bibe, Lude, Poſt mortem nulia voluptas,</q> As if their
+Heaven-born-Souls were capable of no higher enjoyments than the ſickly
+pleaſures of a ſenſual Life; whilſt with Torrents of Intempaerte and
+Libidinous Debauches, they overwhelm their Pampered and deluded ſelves in an
+Eternal Gulph of Inextricable Miſery.</p>
+            <p>
+               <pb facs="tcp:59752:3"/>The Wiſe Heathens would never have a Belief ſo
+repugnant to common ſence, and the dictates of Natural Reaſon, impoſed
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>on them; though they had not the
+knowledge of the True God, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they
+owned a Deity, Worſhipped an Eternal Power, and believed Rewards and
+Puniſhments, after this life. Hence the Poet <hi>Heſiod</hi> begins with a
+<hi>Fear the Everlaſting Gods,</hi> &amp;c. And <hi>Homer</hi> hath a Divine
+Invocation, in the Entrance of his <hi>Illiads:</hi> Moſt the beſt of their
+Poets (whom they, not unaptly, called <hi>Vates,</hi> becauſe they were to
+them in the nature of Prieſts, or Prophets; and from their Phi<g ref="char:EOLhyphen"/>loſophie,
+the Gentiles imbibed the Doctrine of a Deity, and the Sen<g ref="char:EOLhyphen"/>timents of an
+<hi>Elizium,</hi> on the other ſide of the River <hi>Styx</hi>) this life
+(with moſt of the other Notions relating to a future life) theſe I ſay,
+aſſert a Condition of Happineſs and Miſery after the Expiration of the
+Temporal Life.</p>
+            <p>How may thoſe then (that aſſume the Name of Chriſtians,
+and Live under the evident Diſcoveries of an Eternity, by the unerring
+atteſtation of the Goſpel of Life and Salvation, bluſh and hide
+them<g ref="char:EOLhyphen"/>ſelves in their own confuſions, when they reflect how far the poor
+Heathens have out-done them in point of Religion, as well as Mo<g ref="char:EOLhyphen"/>rality. Shall
+thoſe baffled fallacies of <hi>The Wicked One,</hi> which hardly obtained
+amongſt the Heathens; be ſo prevalent (the Divine Re<g ref="char:EOLhyphen"/>velations to the
+contrary) as to gain Champions amongſt pretended Chriſtians, and that
+amongſt ſuch as pretend to the Higheſt Form of Sagacity and Learning?
+What will become of the Execrable Atheiſt, who employs his Faculties and
+Reaſon, to fight againſt that God that gave them to him? But if the great
+Deceiver (for the ſecurity of his Dominions) keep the reſolute Debauchees,
+and obſtinate <hi>Hobbians</hi> in Incredulity of Relations of this Nature;
+we have no reaſon but to be<g ref="char:EOLhyphen"/>lieve, that it will have other impreſſions on
+the more rational part of mankind; who by the Doctrine of the Holy Scripture,
+and many other undenyable inſtances of this kind, may be induced to believe
+that they have Souls to provide for; and that they ought not to deride well
+Atteſted Relations, that put them in mind of a future and E<g ref="char:EOLhyphen"/>ternal State.</p>
+            <p>We have not room in this place, to enter into a Diſquiſition
+of the Nature of the Apparitions hereafter mentioned; but ſhall for that
+re<g ref="char:EOLhyphen"/>fer the judicious Reader to the Learned Diſcourſes of the reverend Dr.
+<hi>Henry Moore,</hi> and the ingenious Dr. <hi>Glanvill,</hi> before
+mentioned, who <pb facs="tcp:59752:4"/>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eated o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Nature of Spirits and Daemons, and with unde<g ref="char:EOLhyphen"/>ny<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>le Arguments proved the Exiſtence of
+ſuch: But ſhall proceed to give an Account of the matter of fact as it is
+atteſted under the Hand of a Perſon of <hi>Quality</hi> and a Reverend
+Divine of unque<g ref="char:EOLhyphen"/>ſtionable Reputation and Credit, of the County of
+<hi>Devon.</hi> But having no Authority to inſert their Names, we have in
+civility omit<g ref="char:EOLhyphen"/>ted that in this Paper; not doubting but that if any ſcruple
+the truth of what is herein contained, upon inquiry they may be aſſured of
+the Truth of it, it being not only Notorious to them in particular, but to many
+the Inhabitants of the parts adjacent.</p>
+            <p>
+               <hi>The Relation follows.</hi>
+            </p>
+            <p>About the Month of <hi>November</hi> laſt, in the Pariſh of
+<hi>Spraiton,</hi> in the County of <hi>Devon,</hi> one <hi>Francis Fey,</hi>
+(Servant to Mr. <hi>Philip Furze</hi>) being in a Field near the dwelling
+houſe of his ſaid Maſter, there appeared unto him, the reſemblance of
+an aged Gentleman, like his Maſters Fa<g ref="char:EOLhyphen"/>ther, with a Pole or Staff in his
+hand, like that he was wont to carry, when living, to kill the Moles withal:
+The Spectrum approached near the young man, who you may imagine, not a little
+ſurpriſed at the Appearance of one that he knew to be dead; but the
+Spectrum bid him not be afraid of him, but to tell his Maſter (who was his
+Son) <hi>That ſeveral Legacies, which by his Teſtament he had bequeathed,
+were unpaid, naming Ten Shillings to One, and Ten ſhillings to another, both
+which he named.</hi> the young man replyed, That the party laſt named was
+dead, and ſo it could not be paid to him: The Ghoſt anſwered, <hi>He knew
+that, but it muſt be paid to the next Relation,</hi> whom he alſo named;
+The Spectrum likewiſe ordered him to carry Twenty ſhillings to a
+Gentle<g ref="char:EOLhyphen"/>woman, Siſter to the deceaſed, living near <hi>Totneſs</hi> in the
+ſaid County, and promiſed if theſe things were performed, to trouble him
+no further; but at the ſame time the Spectrum ſpeaking of his ſecond wife
+(who was alſo dead) called her wicked woman; though the Relator knew her; and
+eſteemed her a very good woman: and (having thus related him his mind) the
+Spectrum left the young man: He according to the direction of the Spirit, took
+care to ſee the ſmall Legacies ſatisfied; and carried the Twenty
+ſhillings, that was appointed to be paid the Gentlewoman near
+<hi>Totnes,</hi> but ſhe utterly refuſed to receive it, being ſent her
+(as ſhe ſaid) from the Devil: The ſame night the young man lodg<g ref="char:EOLhyphen"/>ing at
+her houſe, the aforeſaid Spectrum appeared to him again, where<g ref="char:EOLhyphen"/>upon the
+young man challenged his promiſe not to trouble him a<g ref="char:EOLhyphen"/>gain; ſaying he had
+performed all according to his appointment; but <pb n="5" facs="tcp:59752:4"/>that the
+Gentlewoman (his Siſter) would not receive the money: To which the Spectrum
+replyed, That was true indeed; but withal ordered the Young man, to ride to
+<hi>Totnes,</hi> and buy a Ring of that Value, which the Spirit ſaid ſhe
+would take: wich being provided accordingly, ſhe received. This is a true
+Account of the Firſt Part of the Relation, as it came in a Letter from a
+neighbour Juſtice of Peace, and we have no farther notice of any trouble
+occaſioned by the Ap<g ref="char:EOLhyphen"/>pearance of the Reſemblance of the old Gentleman, who
+ſeemed on the performance of theſe his orders, to be at Reſt.</p>
+            <p>But we muſt continue this Relation with the ſubſequent
+Diſcourſe of a Spectrum, or Daemon, much more tremendous, and the like of
+which (in all circumſtances) hath hardly been known; and it is taken from the
+ſame Letter, atteſted by the ſame hand.</p>
+            <p>The next day after buying and delivering the Ring, the Young Man
+was Riding home to his Maſters houſe, accompanied by a Ser<g ref="char:EOLhyphen"/>vant of the
+Gentlewomans near <hi>Totnes,</hi> and near about the time of their entrance
+(or a little before they came) into the Pariſh of <hi>Spraiton</hi>
+a<g ref="char:EOLhyphen"/>foreſaid, there appeared to be upon the Horſe, behind the young man, a
+perſon or Spectrum reſembling the before mentioned wife of the old
+Gentleman, ſpoken of before. This Daemon often threw the young man off his
+Horſe, and caſt him with ſuch Violence to the ground, as was great
+aſtoniſhment, not only to the Gentlewomans ſervant (with him) but to
+divers others who were ſpectators of the dreadful Action, his body being
+caſt with incredible Force to the ground, which reſounded with mighty
+noiſe at every fall. At his coming into his Maſters Yard, the Horſe which
+the young man rid, though very poor, and out of caſe, leaped at once Twenty
+five foot at one ſpring, to the amazement of all that ſaw it. Soon after
+the She Spectrum ſhewed her ſelf to ſeveral in the houſe, <hi>viz.</hi>
+The aforeſaid young man, Mrs. <hi>Thomaſin Gidly, Anne Langdon,</hi> born
+in that Pariſh, and a little Child, which by reaſon of the
+troubleſomeneſs of the Spirit, they were forced to remove from that
+Houſe. She Appeared ſometimes in her own ſhape, ſometimes in forms very
+horrid, now and then, like a monſtrous Dog, belching out fire. At another
+time it flew out at the Window in the Shape of a Horſe, carrying with it only
+one pane of glaſs and a ſmall peice of Iron.</p>
+            <p>
+               <pb n="6" facs="tcp:59752:5"/>One time the Young Mans head was thruſt into a
+very Strait place betwixt a Beds-head, and a wall, and forced by the Strength
+of divers men to be removed thence, and that not without being much hurt and
+bruiſed, ſo that much Blood appeared about it: upon this it was adviſed
+he ſhould be bleeded, to prevent any ill accident that might come of the
+bruiſe. After bleeding, the Ligature or binder of his Arm was removed from
+thence, and conveyed about his middle, where it was ſtrained with ſuch
+violence that the girding had almoſt ſtop<g ref="char:EOLhyphen"/>ped his breath and killed him;
+and being cut in ſunder it made a ſtrange and diſmal noiſe, ſo that
+the ſtanders by were affrighted at it.</p>
+            <p>At divers other times he hath been in danger to be ſtrangled
+with Cravats, and handkerchiefs that he hath worn about his Neck, which have
+been drawn ſo cloſe, that with the ſudden violence he hath near been
+choaked, and hardly eſcaped Death.</p>
+            <p>The Spectre hath ſhewed great Offence at the Perukes the young
+man uſed to wear, for they are often torne from his head after a very
+ſtrange manner; one that he eſteemed above the reſt he put in a ſmall
+box, and placed that in another, which he ſet againſt the wall of his
+Chamber ſetting a Joynt ſtool with other weight on the top of it, but in
+ſhorttime the boxes were broken in ſunder, and the Peruke rended into many
+ſmall parts and tatters. Another time lying in his Maſters Chamber, with
+his Peruke on his head to ſecure it from danger, within a little time it was
+torn from him, and reduced into very ſmall fragments.</p>
+            <p>Another time one of his ſhoo-ſtrings was obſerved (without
+the aſſiſtance of any hand) to come of its own accord out of his ſhoe,
+and fling it ſelf to the other ſide of the room; the other was crawling
+after it, but a maid eſpying that, with her hand drew it out, and it
+ſtrange<g ref="char:EOLhyphen"/>ly claſp'd and curled about her hand like a living Eel or Serpent;
+this is Teſtified by a Lady of conſiderable Quality, too great for
+exception, who was an eye-witneſs. The ſame <hi>Gentlewoman</hi> ſhewed
+the <hi>Relator</hi> one of the young mans gloves, which was torn in his
+pocket, whilſt ſhe was by; which is ſo dextrouſly tatter'd, and ſo
+Artificially torn that it is conceived a Cutler could not have contrived an
+Inſtrument to have laid it abroad ſo accurately; and all this done in the
+pocket in the compaſs of one minute.</p>
+            <p>
+               <pb n="7" facs="tcp:59752:5"/>It is farther obſervable, that if the
+aforeſaid young man, or another perſon who is a ſervant maid in the
+Houſe, do wear their own Cloaths; they are certainly torn in peices on their
+backs, but if the Cloaths belong to any other, they are not injured after that
+manner. Divers other ſtrange &amp; fantaſtical Freaks have been done by the
+ſaid Daemon or Spirit in the view of divers perſons: A Barrel of Salt of a
+conſiderable quantity, hath been obſerved to march from one room to
+another, without any humane aſſiſtance. An hand-iron hath ſeemed to lay
+it ſelf croſs overthwart a pan of milk, that hath been ſcalding over the
+Fire, and two Flicthes of Bacon have of their own accord deſcended from the
+Chimney, where they were hung, and placed themſelves upon the Hand-iron.</p>
+            <p>When the Spectrum appears in reſemblance of her own perſon,
+ſhe ſeemeth to be habited in the ſame clothes and dreſs which the
+Gentlewoman of the houſe (her daughter in Law) hath on at the ſame time.
+Divers times the feet and leggs of the young man afore<g ref="char:EOLhyphen"/>ſaid have been ſo
+entangled about his neck, that he hath been looſed with great Difficulty:
+Sometimes they have been ſo twiſted about the frames of chairs and ſtools
+that they have hardly been ſet at Liberty.</p>
+            <p>But one of the moſt Conſiderable Inſtances of the Malice of
+the Spirit againſt the young man happened on <hi>Eaſter</hi>-Eve, when the
+Relator was paſſing by the door of the Houſe; which happened thus;</p>
+            <p>When the young man was returning from his labour, he was taken up
+by the skirt of his doublet, by this Female Daemon, and carried a height i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>to the Air: He was ſoon miſſed by
+his Maſter, and other Ser<g ref="char:EOLhyphen"/>vants that been at labour, and after diligent
+inquiry, no news could be heard of him, until at length, (near half an hour
+after) he was heard Singing and whiſtling in a Bogg or Quagmire, where they
+found him in a kind of Trance, or Extatick Fit, to which he hath ſometimes
+been accuſtomed (but whether before the affliction he met with from this
+Spirit, I am not certain) he was affected much after ſuch ſort as at that
+time of thoſe Fits; ſo that the people did not give that Attention and
+Regard to what he ſaid as at other times, but when he returned again to
+himſelf (which was about an hour after) <pb n="8" facs="tcp:59752:6"/>he ſolemnly
+proteſted to them, That the Daemon had carried him ſo high, that his
+Maſters Houſe ſeemed to him to be but as a hey-cock; and that during all
+that time he was in perfect ſenſe, and prayed to Al<g ref="char:EOLhyphen"/>mighty God, not to
+ſuffer the Devil to deſtroy him, and that he was ſuddenly ſet down in
+that quagmire.</p>
+            <p>The workmen found one ſhoe on one ſide of his Maſters
+houſe, and the other on the other ſide, and in the morning eſpyed his
+Peruke hanging on the top of a Tree: By which it appears, he had been carried a
+conſiderable height, and that what he told them was no Fiction. After this it
+was obſerved that that part of the young mans body which had been on the mud
+in the quagmire was ſomewhat benummed and ſeemingly deader than the other;
+whereupon the following <hi>Saturday,</hi> which was the day before
+<hi>Low-Sunday,</hi> he was carried to <hi>Crediton,</hi> alias <hi>Kirton</hi>
+to be bleeded, which being done accordingly, and the Company having left him
+for ſome little ſpace: At their return they found him in one of his fits,
+with his forehead much bruiſed, and ſwoln to a great bigneſs, none being
+able to gueſs how it happened, until he was recovered from that fit: When
+upon inquiry, he gave them this Account of it; That a Bird had with great
+ſwiftneſs and force flown in at the Window, with a ſtone in its beak,
+which it had daſhed directly againſt his forehead. The people much wondring
+at the ſtrange<g ref="char:EOLhyphen"/>neſs of this Accident, earneſtly ſought the ſtone, and
+under the place where he ſate they found, not ſuch a ſtone as they
+expected, but a weight of Braſs or Copper, which it ſeems the Daemon had
+made uſe of on that occaſion, to give the poor young man that hurt in his
+fore<g ref="char:EOLhyphen"/>head. The perſons preſent were at the trouble to break it in peices,
+every one taking a part, and preſerving it in memory of ſo ſtrange an
+Accident.</p>
+            <p>
+               <hi>The Relator goes no further, only gives account that he heard
+the Spirit had handled him very Ill the next day being</hi> Sunday. <hi>This is
+a Faithful Account of the Contents of a Letter from a Perſon of Quality
+in</hi> Devon, <hi>to a Gentleman his friend in</hi> London, <hi>with relation
+to the Spectrums at</hi> Spraiton, <hi>and Dated the</hi> 11<hi>th. of this
+inſtant</hi> May, 1683. <hi>The Truth of which will be atteſted not only by
+divers perſons of Quality in this City; but upon inquiry in the adjacent
+County will be confirmed beyond all ex<g ref="char:EOLhyphen"/>ception.</hi>
+            </p>
+            <p>
+               <pb n="9" facs="tcp:59752:6"/>
+               <hi>I will not trouble the Reader with any
+deſcant on the particulars above mentioned, but only add, that the young man
+will be of the Age of Twenty one years, if he live till</hi> Auguſt
+<hi>next.</hi>
+            </p>
+            <p>
+               <hi>I have done with the Relation, and only beg the intelligent
+Reader, to con<g ref="char:EOLhyphen"/>ſider, what ſort of People theſe deriders of Spirits and
+Witches are, who perhaps will not believe that the Sun ſhines in</hi>
+Devonſhire, <hi>becauſe they are not there to ſee it. But too much hath
+already been ſaid to ſuch</hi> Scoffers, <hi>or at leaſt more than the
+narrow limits of this Paper will well bear. Here is plain matter of fact, with
+the name of the County, and place, where any that are unſatisfied, may make
+enquiry, and as was before ſuggeſted, the Per<g ref="char:EOLhyphen"/>ſons names have been
+forborn, leſt (without their leave) it might give offence. If it conduce to
+the Conviction of any one of the adverſe Party, or move in others (more
+ſober) Reſolutions to</hi> Walk <hi>ſeriouſly, and with an</hi> Awful
+Frame <hi>before the Omnipotent Creator of all things; and to take heed of
+<hi rend="blackletterType">Satanical Deluſions,</hi> I have my Aim; and let</hi>
+GOD <hi>have the Glory.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
